@@ -32,6 +32,10 @@ const num2 = 123;
 let isNum2Prime;
 ```
 
+### Reminders
+
+To complete this lab, you will need to use while loops to iterate over the possible divisor numbers and conditionals to check whether each number is prime. You may also find the remainder operator `%` helpful in determining whether a number is divisible by another number.
+
 ### Resources
 
 - [MDN Web Docs: let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
