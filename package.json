@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+git@github.com:gnappo1/phase-o-js-prime-checker-lab.git"
+    "url": "git+ssh://git@github.com:gnappo1/phase-o-js-prime-checker-lab.git"
   },
   "keywords": [
     "javascript",
@@ -23,7 +23,7 @@
   "author": "Matteo Piccini",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "hhttps://github.com/gnappo1/phase-o-js-prime-checker-lab/issues"
+    "url": "https://github.com/gnappo1/phase-o-js-prime-checker-lab/issues"
   },
   "homepage": "https://github.com/gnappo1/phase-o-js-prime-checker-lab#readme",
   "devDependencies": {
